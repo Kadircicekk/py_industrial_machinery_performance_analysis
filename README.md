@@ -1,4 +1,4 @@
-🛠️ #Endüstriyel Makine Performans ve Arıza Tahmin Sistemi
+#🛠️Endüstriyel Makine Performans ve Arıza Tahmin Sistemi
 
   Bu proje, bulanık mantık tabanlı bir sistem kullanarak bir endüstriyel makinenin performansını ve arıza riskini tahmin etmektedir. 
  Kullanıcıdan alınan beş farklı parametreye göre (motor sıcaklığı, titreşim, çalışma hızı, yağ seviyesi ve ortam sıcaklığı), sistem makinenin genel performansını ve arıza riskini belirler.
